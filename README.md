@@ -21,4 +21,8 @@ Assembly photo
 
 BOM:
 
-Just the 3D printed parts - cost vary on support/infill decisions. However expect a cost between $2-5 in material cost for typical material, specifically PLA.
+One of the Happy_Head
+
+Happy stl file 1x
+
+- cost vary on support/infill decisions. However expect a cost between $2-5 in material cost for typical material, specifically PLA.

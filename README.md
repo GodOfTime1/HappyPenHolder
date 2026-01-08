@@ -23,6 +23,10 @@ Assembly photo no mustache
 
 Assembly photo with mustache
 
+<img width="1500" height="2000" alt="image" src="https://github.com/user-attachments/assets/5c9572e8-3ca1-4ad6-8a40-69dc32ae6c80" />
+
+Final Print 
+
 BOM:
 
 One of the Happy_Head
